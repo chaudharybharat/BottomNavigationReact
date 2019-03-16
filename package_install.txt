@@ -1,0 +1,7 @@
+npm install --save react-navigation
+
+npm install --save react-native-gesture-handler
+
+ npm install react-native-vector-icons
+
+ react-native link
